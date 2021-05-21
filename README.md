@@ -1,9 +1,17 @@
-# Ferramentas-de-TI
+# Ferramentas de TI
 Repositorio Simples com diversas ferramentas para Estudantes de TI
 
 Pré-Requisitos
 
 1) Crição de Conta no GitHub (https://github.com/)
+
+Estudos
+1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
+
+Objetivos:
+1) Criação de projetos atraves do GitHub e criação de código em Comum
+2) Colaboração e troca de conhecimento entre integrantes do grupo
+
 
 Ferramentas
 
@@ -83,9 +91,13 @@ Projetos Individuais
 Docker
 1) https://docs.docker.com/docker-for-windows/install/
 
-Estudos
-1) Conceitos GIT - https://www.youtube.com/watch?v=GIEquFr3jcg&list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ
+API Divertidas
+1) PokéApi - https://pokeapi.co/
 
-Objetivos:
-1) Criação de projetos atraves do GitHub e criação de código em Comum
-2) Colaboração e troca de conhecimento entre integrantes do grupo
+2) The Star Wars API - https://swapi.dev/
+3) Marvel API - https://developer.marvel.com/
+
+4) CheapShark API - https://apidocs.cheapshark.com/
+
+Hackathons:
+1) Dicas Hackathons - https://www.notion.so/Dicas-Hackathon-d5b7d2fa90784c5d9a53cb66cd62d2a7
